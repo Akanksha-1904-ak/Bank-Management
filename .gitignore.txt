@@ -1,0 +1,17 @@
+# Ignore compiled class files
+*.class
+
+# Ignore IDE folders
+.vscode/
+.idea/
+
+# Ignore build folders
+bin/
+build/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore library jars if you don't want them in GitHub
+lib/*.jar
